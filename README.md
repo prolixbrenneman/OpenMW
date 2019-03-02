@@ -1,4 +1,6 @@
 # OpenMW
-Open Morrowind mod and config files
+Open Morrowind files to support an orderly approach to my modding.
 
-I am hoping at first to take advantage of the dif function to track new errors in the log file, as well as step through the order the mods are in the config file in the same way.
+* Use of diifs to check what mods have changed
+* Assist with powershell managment
+* Ease of rollback when things go wrong.
