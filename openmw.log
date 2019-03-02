@@ -28,16 +28,56 @@ Adding data directory D:\Games\OpenMW\Mods\DelayedDBAttackV2
 Adding data directory D:\Games\OpenMW\Mods\IllysSolsteimRumourFixv10
 Adding data directory D:\Games\OpenMW\Mods\LowerFirstPersonSneakMode
 Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalism
-Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalismExtraMining
+Adding data directory D:\Games\OpenMW\Mods\MeshFixv12
+Adding data directory D:\Games\OpenMW\Mods\MeshImprovements171
+Adding data directory D:\Games\OpenMW\Mods\CorrectMeshes
+Adding data directory D:\Games\OpenMW\Mods\VanillaRemastered
+Adding data directory D:\Games\OpenMW\Mods\Papill6nvariousgraphicsthings
+Adding data directory D:\Games\OpenMW\Mods\AOFContainers
+Adding data directory D:\Games\OpenMW\Mods\ASTBedsRemastered
+Adding data directory D:\Games\OpenMW\Mods\AkulakhanReplacerforOpenMW
+Adding data directory D:\Games\OpenMW\Mods\ApelsVariousThingsSigns
+Adding data directory D:\Games\OpenMW\Mods\ArukinnsBetterBooksandScrolls
+Adding data directory D:\Games\OpenMW\Mods\AshlanderLanternTextures
+Adding data directory D:\Games\OpenMW\Mods\BetterKegstands
+Adding data directory D:\Games\OpenMW\Mods\BetterSkulls
+Adding data directory D:\Games\OpenMW\Mods\BloodmoonHideReplacer
+Adding data directory D:\Games\OpenMW\Mods\CorrectUVMudcrabs
+Adding data directory D:\Games\OpenMW\Mods\CorrectUVRocks
+Adding data directory D:\Games\OpenMW\Mods\DetailedTapestries
+Adding data directory D:\Games\OpenMW\Mods\DunmerLanternsReplacer
+Adding data directory D:\Games\OpenMW\Mods\DunmeriUrnsAestetikaofVvardenfell
+Adding data directory D:\Games\OpenMW\Mods\DwemerPuzzleBoxReplacer
+Adding data directory D:\Games\OpenMW\Mods\EKMVanillaBasedPaperLanterns
+Adding data directory D:\Games\OpenMW\Mods\GuarSkinBannersforOpenMWandVanillaMorrowind
+Adding data directory D:\Games\OpenMW\Mods\ImprovedCavernClutter
+Adding data directory D:\Games\OpenMW\Mods\ImprovedImperialFortUVs
+Adding data directory D:\Games\OpenMW\Mods\IngredientsMeshReplacer
+Adding data directory D:\Games\OpenMW\Mods\KetsPotionsandBeveragesRetexture
+Adding data directory D:\Games\OpenMW\Mods\KetsSwirlwoodFurnitureRetexture
+Adding data directory D:\Games\OpenMW\Mods\LongLiveTheGlasswareRetexture
+Adding data directory D:\Games\OpenMW\Mods\LongLiveTheLimewareRetexture
+Adding data directory D:\Games\OpenMW\Mods\LongLiveThePlatesRetexture
+Adding data directory D:\Games\OpenMW\Mods\OneTrueFaithSaintsandFrescoesRetexture
+Adding data directory D:\Games\OpenMW\Mods\SoulgemReplacer
+Adding data directory D:\Games\OpenMW\Mods\WoodFurniture
 Adding data directory D:\Games\OpenMW\Mods\BetterClothesv11
 Adding data directory D:\Games\OpenMW\Mods\BetterRobes\Data Files
 Adding data directory D:\Games\OpenMW\Mods\MoreBetterClothes
 Adding data directory D:\Games\OpenMW\Mods\RobeOverhaul
 Adding data directory D:\Games\OpenMW\Mods\HiRezBetterClothes
+Adding data directory D:\Games\OpenMW\Mods\DagothUrWelcomesYou
+Adding data directory D:\Games\OpenMW\Mods\SkyrimHomeOfTheNords
 Adding data directory D:\Games\OpenMW\Mods\SolstheimTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\AnthologyTomboftheSnowPrince
-Adding data directory D:\Games\OpenMW\Mods\VanillaishFortFrostmoth
 Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalismTotSPPatch
+Adding data directory D:\Games\OpenMW\Mods\VanillaishFortFrostmoth
+Adding data directory D:\Games\OpenMW\Mods\KilcundasBalmora
+Adding data directory D:\Games\OpenMW\Mods\IlluminatedPalaceofVivec
+Adding data directory D:\Games\OpenMW\Mods\BalmoraMGStorageandBed
+Adding data directory D:\Games\OpenMW\Mods\RedoranCouncilHallImprovement
+Adding data directory D:\Games\OpenMW\Mods\SkoomaPipe
+Adding data directory D:\Games\OpenMW\Mods\HidetheSugar
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -90,8 +130,10 @@ Loading content file Book Rotate - Bloodmoon v5.3.esp
 Loading content file Book Rotate - Morrowind v1.1.esp
 Loading content file Book Rotate - Tribunal v5.3.esp
 Loading content file CREL_Vanilla_STOTSP_v3.1.esp
+Loading content file BalmoraMGStorage.ESP
+Loading content file 1.2dagothspartyCLEANED.esp
 Playing Music/Special/morrowind title.mp3
 Changing to interior
 Loading cell Caldera, Guild of Mages
-Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_2.mp3
 Quitting peacefully.
