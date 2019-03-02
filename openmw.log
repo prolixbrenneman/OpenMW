@@ -68,11 +68,14 @@ Adding data directory D:\Games\OpenMW\Mods\WoodFurniture
 Adding data directory D:\Games\OpenMW\Mods\NewStarfields
 Adding data directory D:\Games\OpenMW\Mods\PetesJournalFont
 Adding data directory D:\Games\OpenMW\Mods\RealSignposts
+Adding data directory D:\Games\OpenMW\Mods\NewSplashScreens
+Adding data directory D:\Games\OpenMW\Mods\BetterDialogueFont
 Adding data directory D:\Games\OpenMW\Mods\BetterClothesv11
 Adding data directory D:\Games\OpenMW\Mods\BetterRobes\Data Files
 Adding data directory D:\Games\OpenMW\Mods\MoreBetterClothes
 Adding data directory D:\Games\OpenMW\Mods\RobeOverhaul
 Adding data directory D:\Games\OpenMW\Mods\HiRezBetterClothes
+Adding data directory D:\Games\OpenMW\Mods\FashionableMerchants
 Adding data directory D:\Games\OpenMW\Mods\DagothUrWelcomesYou
 Adding data directory D:\Games\OpenMW\Mods\SolstheimTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\AnthologyTomboftheSnowPrince
@@ -89,6 +92,9 @@ Adding data directory D:\Games\OpenMW\Mods\SpeechcraftRebalance
 Adding data directory D:\Games\OpenMW\Mods\BTBsBalanceFixes
 Adding data directory D:\Games\OpenMW\Mods\PriceBalance
 Adding data directory D:\Games\OpenMW\Mods\LvldListEconomyFix
+Adding data directory D:\Games\OpenMW\Mods\NaturalCharacterGrowthandDecay
+Adding data directory D:\Games\OpenMW\Mods\MBSPncgdMW
+Adding data directory D:\Games\OpenMW\Mods\HarderNoM
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -144,23 +150,23 @@ Loading content file Book Rotate.esm
 Loading content file Book Rotate - Bloodmoon v5.3.esp
 Loading content file Book Rotate - Morrowind v1.1.esp
 Loading content file Book Rotate - Tribunal v5.3.esp
+Loading content file Fashionable Merchants 1.0.esp
 Loading content file CREL_Vanilla_STOTSP_v3.1.esp
 Loading content file Xenn's Marksman Overhaul.ESP
 Loading content file SpeechcraftBalance.ESP
 Loading content file BTB - Alchemy.esp
-Loading content file BTB - Equipment.esp
 Loading content file BTB - Spells.esp
-Loading content file Price Balance.ESP
+Loading content file BTB - Equipment.esp
 Loading content file vn_economy_ItemLists.esp
 Loading content file BalmoraMGStorage.ESP
 Loading content file 1.2dagothspartyCLEANED.esp
 Loading content file HideSugarHideSkooma+Tweaks.ESP
 Loading content file Skooma Pipe 1.2a.ESP
 Playing Music/Special/morrowind title.mp3
-Warning: Savegame dependency New Argonian Bodies - Clean.esp is missing.
-Warning: Savegame dependency New Khajiit Bodies - Clean.esp is missing.
+Warning: Savegame dependency Price Balance.ESP is missing.
 Changing to interior
-Loading cell Balmora, Guild of Mages
-Playing music/explore/mx_explore_1.mp3
+Loading cell Seyda Neen, Arrille's Tradehouse
+Failed to open image: Resource 'textures/tx_bc_podplant_03_g.dds' not found
+Playing music/explore/mx_explore_4.mp3
 Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
 Quitting peacefully.
