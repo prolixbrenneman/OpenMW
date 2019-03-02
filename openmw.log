@@ -18,7 +18,7 @@ Adding data directory D:\Games\OpenMW\Mods\BetterRegen
 Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
 Adding data directory D:\Games\OpenMW\Mods\ExpandedBirthsigns
 Adding data directory D:\Games\OpenMW\Mods\BetterBodies
-Adding data directory D:\Games\OpenMW\Mods\NewBeastBodiesCleanVersion\Data Files
+Adding data directory D:\Games\OpenMW\Mods\NewBeastBodies\Data Files
 Adding data directory D:\Games\OpenMW\Mods\RaceRebalance
 Adding data directory D:\Games\OpenMW\Mods\RacesRedone
 Adding data directory D:\Games\OpenMW\Mods\RacesRedonePurpleImperialFix
@@ -32,6 +32,7 @@ Adding data directory D:\Games\OpenMW\Mods\MeshFixv12
 Adding data directory D:\Games\OpenMW\Mods\MeshImprovements171
 Adding data directory D:\Games\OpenMW\Mods\CorrectMeshes
 Adding data directory D:\Games\OpenMW\Mods\VanillaRemastered
+Adding data directory D:\Games\OpenMW\Mods\NatureRetex
 Adding data directory D:\Games\OpenMW\Mods\Papill6nvariousgraphicsthings
 Adding data directory D:\Games\OpenMW\Mods\AOFContainers
 Adding data directory D:\Games\OpenMW\Mods\ASTBedsRemastered
@@ -61,13 +62,14 @@ Adding data directory D:\Games\OpenMW\Mods\LongLiveThePlatesRetexture
 Adding data directory D:\Games\OpenMW\Mods\OneTrueFaithSaintsandFrescoesRetexture
 Adding data directory D:\Games\OpenMW\Mods\SoulgemReplacer
 Adding data directory D:\Games\OpenMW\Mods\WoodFurniture
+Adding data directory D:\Games\OpenMW\Mods\NewStarfields
+Adding data directory D:\Games\OpenMW\Mods\PetesJournalFont
 Adding data directory D:\Games\OpenMW\Mods\BetterClothesv11
 Adding data directory D:\Games\OpenMW\Mods\BetterRobes\Data Files
 Adding data directory D:\Games\OpenMW\Mods\MoreBetterClothes
 Adding data directory D:\Games\OpenMW\Mods\RobeOverhaul
 Adding data directory D:\Games\OpenMW\Mods\HiRezBetterClothes
 Adding data directory D:\Games\OpenMW\Mods\DagothUrWelcomesYou
-Adding data directory D:\Games\OpenMW\Mods\SkyrimHomeOfTheNords
 Adding data directory D:\Games\OpenMW\Mods\SolstheimTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\AnthologyTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalismTotSPPatch
@@ -78,6 +80,7 @@ Adding data directory D:\Games\OpenMW\Mods\BalmoraMGStorageandBed
 Adding data directory D:\Games\OpenMW\Mods\RedoranCouncilHallImprovement
 Adding data directory D:\Games\OpenMW\Mods\SkoomaPipe
 Adding data directory D:\Games\OpenMW\Mods\HidetheSugar
+Adding data directory D:\Games\OpenMW\Mods\SpeechcraftRebalance
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -102,8 +105,8 @@ Loading content file wl_SolstheimOverhaul_v1.esm
 Loading content file Anthology Tomb of the Snow Prince.esm
 Loading content file ATotSP - Vanillaish Fort Frostmoth.esp
 Loading content file Anthology Tomb of the Snow Prince.esp
-Loading content file New Argonian Bodies - Clean.esp
-Loading content file New Khajiit Bodies - Clean.esp
+Loading content file New Argonian Bodies - Mature.esp
+Loading content file New Khajiit Bodies - Mature.esp
 Loading content file ExpandedBirthsigns4Purists.esp
 Loading content file BetterGoverningAttributes.esp
 Loading content file BetterRegen.omwaddon
@@ -118,6 +121,7 @@ Loading content file Patch for Purists - Dialogue Typos.esm
 Loading content file Patch for Purists - Expansion Implementation.esm
 Loading content file Patch for Purists - Floating Rocks.esm
 Loading content file Patch for Purists - Statistic Typos.esm
+Loading content file UCNature.esm
 Loading content file Better Clothes_v1.1_nac.esp
 Loading content file Better Robes.ESP
 Loading content file More Better Clothes.ESP
@@ -130,10 +134,42 @@ Loading content file Book Rotate - Bloodmoon v5.3.esp
 Loading content file Book Rotate - Morrowind v1.1.esp
 Loading content file Book Rotate - Tribunal v5.3.esp
 Loading content file CREL_Vanilla_STOTSP_v3.1.esp
+Loading content file SpeechcraftBalance.ESP
 Loading content file BalmoraMGStorage.ESP
 Loading content file 1.2dagothspartyCLEANED.esp
+Loading content file HideSugarHideSkooma+Tweaks.ESP
+Loading content file Skooma Pipe 1.2a.ESP
 Playing Music/Special/morrowind title.mp3
+Warning: Savegame dependency New Argonian Bodies - Clean.esp is missing.
+Warning: Savegame dependency New Khajiit Bodies - Clean.esp is missing.
 Changing to interior
-Loading cell Caldera, Guild of Mages
+Loading cell Balmora, Guild of Mages
 Playing music/explore/mx_explore_2.mp3
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+warning OutsideBanner line 38, column 6 (endif)
+    endif without matching if/elseif
+Error loading textures\tx_a_bonemold_towershield.dds:  code 1
+Failed to open image: Resource 'textures/d:/games/bethesda softworks/morrowind/data files/textures/mkbh/imperial/male/mkbh_manhead_imp06_d.dds' not found
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Guild of Mages
 Quitting peacefully.
