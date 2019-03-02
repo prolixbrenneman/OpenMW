@@ -5,11 +5,21 @@ Revision: ef85b1393a
 Using default (English) font encoding.
 OSG version: 3.4.1
 Loading settings file: ./settings-default.cfg
+Loading settings file: D:\Documents\My Games\OpenMW/settings.cfg
 Adding BSA archive C:\Program Files (x86)\GOG Galaxy\Games\Morrowind\Data Files\Morrowind.bsa
 Adding BSA archive C:\Program Files (x86)\GOG Galaxy\Games\Morrowind\Data Files\Tribunal.bsa
 Adding BSA archive C:\Program Files (x86)\GOG Galaxy\Games\Morrowind\Data Files\Bloodmoon.bsa
 Adding data directory C:\Program Files (x86)\GOG Galaxy\Games\Morrowind\Data Files
 Adding data directory D:\Games\OpenMW\Mods\ChargenRevampedEL\Data Files
+Adding data directory D:\Games\OpenMW\Mods\PatchforPurists
+Adding data directory D:\Games\OpenMW\Mods\MorrowindOptimizationPatch
+Adding data directory D:\Games\OpenMW\Mods\ModernUserInterface
+Adding data directory D:\Games\OpenMW\Mods\BetterRegen
+Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
+Adding data directory D:\Games\OpenMW\Mods\BetterBodies
+Adding data directory D:\Games\OpenMW\Mods\RaceRebalance
+Adding data directory D:\Games\OpenMW\Mods\RacesRedone
+Adding data directory D:\Games\OpenMW\Mods\RacesRedonePurpleImperialFix
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -29,77 +39,31 @@ Enumerated output devices:
 Loading content file Morrowind.esm
 Loading content file Tribunal.esm
 Loading content file Bloodmoon.esm
+Loading content file BetterGoverningAttributes.esp
+Loading content file BetterRegen.omwaddon
+Loading content file RAMF_Mer_for_NPCs.esp
+Loading content file Khajiit Redone.esp
+Loading content file Argonian Redone.esp
+Loading content file Patch for Purists - Base Patch.esm
+Loading content file Patch for Purists - Book Typos.esm
+Loading content file Patch for Purists - Dialogue Inconsistencies.esm
+Loading content file Patch for Purists - Dialogue Typos.esm
+Loading content file Patch for Purists - Expansion Implementation.esm
+Loading content file Patch for Purists - Floating Rocks.esm
+Loading content file Patch for Purists - Statistic Typos.esm
 Loading content file CREL_Vanilla_v3.1.esp
 Playing Music/Special/morrowind title.mp3
-Changing to interior
-Loading cell CREL Start
-Playing music/explore/mx_explore_2.mp3
-Playing music/explore/mx_explore_7.mp3
-Changing to interior
-Unloading cell
-Loading cell Seyda Neen, Census and Excise Office
-Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
-Unloading cell
 Loading cell -3, -10
 Loading cell -3, -9
 Loading cell -3, -8
 Loading cell -2, -10
 Loading cell -2, -9
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
 Loading cell -2, -8
 Loading cell -1, -10
 Loading cell -1, -9
 Loading cell -1, -8
 warning fallingScript line 46, column 6 (endif)
     endif without matching if/elseif
-Changing to interior
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Loading cell Seyda Neen, Census and Excise Office
-Unloading cell
-Loading cell -3, -10
-Loading cell -3, -9
-Loading cell -3, -8
-Loading cell -2, -10
-Loading cell -2, -9
-Loading cell -2, -8
-Loading cell -1, -10
-Loading cell -1, -9
-Loading cell -1, -8
-Playing music/explore/mx_explore_3.mp3
-Changing to interior
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Unloading cell
-Loading cell Seyda Neen, Arrille's Tradehouse
-Unloading cell
-Loading cell -3, -10
-Loading cell -3, -9
-Loading cell -3, -8
-Loading cell -2, -10
-Loading cell -2, -9
-Loading cell -2, -8
-Loading cell -1, -10
-Loading cell -1, -9
-Loading cell -1, -8
-Created new setting section: Saves
-Added new setting: [Saves] character = Strahn
-Created new setting section: Windows
-Added new setting: [Windows] barter h = 0.63
-Added new setting: [Windows] barter w = 0.535
-Added new setting: [Windows] barter x = 0.41125
-Added new setting: [Windows] barter y = 0.0716667
-Updating settings file: "D:\Documents\My Games\OpenMW/settings.cfg"
+Playing music/explore/mx_explore_6.mp3
 Quitting peacefully.
