@@ -18,14 +18,17 @@ Adding data directory D:\Games\OpenMW\Mods\BetterRegen
 Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
 Adding data directory D:\Games\OpenMW\Mods\ExpandedBirthsigns
 Adding data directory D:\Games\OpenMW\Mods\BetterBodies
+Adding data directory D:\Games\OpenMW\Mods\NewBeastBodiesCleanVersion\Data Files
 Adding data directory D:\Games\OpenMW\Mods\RaceRebalance
 Adding data directory D:\Games\OpenMW\Mods\RacesRedone
 Adding data directory D:\Games\OpenMW\Mods\RacesRedonePurpleImperialFix
 Adding data directory D:\Games\OpenMW\Mods\AtHomeAlchemyRedux\Data Files
 Adding data directory D:\Games\OpenMW\Mods\BookRotatev53\Data Files
 Adding data directory D:\Games\OpenMW\Mods\DelayedDBAttackV2
+Adding data directory D:\Games\OpenMW\Mods\IllysSolsteimRumourFixv10
 Adding data directory D:\Games\OpenMW\Mods\LowerFirstPersonSneakMode
 Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalism
+Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalismExtraMining
 Adding data directory D:\Games\OpenMW\Mods\SolstheimTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\AnthologyTomboftheSnowPrince
 Adding data directory D:\Games\OpenMW\Mods\VanillaishFortFrostmoth
@@ -49,17 +52,20 @@ Enumerated output devices:
 Loading content file Morrowind.esm
 Loading content file Tribunal.esm
 Loading content file Bloodmoon.esm
+Loading content file DB_Attack_Mod.esp
 Loading content file wl_SolstheimOverhaul_v1.esm
 Loading content file Anthology Tomb of the Snow Prince.esm
 Loading content file ATotSP - Vanillaish Fort Frostmoth.esp
 Loading content file Anthology Tomb of the Snow Prince.esp
-Loading content file DB_Attack_Mod.esp
+Loading content file New Argonian Bodies - Clean.esp
+Loading content file New Khajiit Bodies - Clean.esp
 Loading content file ExpandedBirthsigns4Purists.esp
 Loading content file BetterGoverningAttributes.esp
 Loading content file BetterRegen.omwaddon
 Loading content file RAMF_Mer_for_NPCs.esp
 Loading content file Khajiit Redone.esp
 Loading content file Argonian Redone.esp
+Loading content file Illy's Solsteim Rumour Fix.esp
 Loading content file Patch for Purists - Base Patch.esm
 Loading content file Patch for Purists - Book Typos.esm
 Loading content file Patch for Purists - Dialogue Inconsistencies.esm
@@ -77,19 +83,35 @@ Loading content file Book Rotate - Morrowind v1.1.esp
 Loading content file Book Rotate - Tribunal v5.3.esp
 Loading content file CREL_Vanilla_STOTSP_v3.1.esp
 Playing Music/Special/morrowind title.mp3
-Warning: Savegame dependency CREL_Vanilla_v3.1.esp is missing.
-Warning: Dropping reference to bm_ex_iceberg_collapsed (invalid content file link)
-Loading cell -3, -10
-Loading cell -3, -9
-Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
-Loading cell -3, -8
-Loading cell -2, -10
-Loading cell -2, -9
-Loading cell -2, -8
-Loading cell -1, -10
-Loading cell -1, -9
-Loading cell -1, -8
-warning fallingScript line 126, column 6 (endif)
-    endif without matching if/elseif
-Playing music/explore/mx_explore_6.mp3
+Changing to interior
+Loading cell CREL Start
+Playing music/explore/mx_explore_5.mp3
+No class image for $dynamic2, falling back to default
+Changing to interior
+Unloading cell
+Loading cell Caldera, Shenk's Shovel
+Unloading cell
+Loading cell -3, 1
+Loading cell -3, 2
+Loading cell -3, 3
+Loading cell -2, 1
+Loading cell -2, 2
+Loading cell -2, 3
+Loading cell -1, 1
+Loading cell -1, 2
+Loading cell -1, 3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Caldera, Guild of Mages
+Playing music/explore/mx_explore_7.mp3
+Changed setting: [Saves] character = Maeshari
+Updating settings file: "D:\Documents\My Games\OpenMW/settings.cfg"
 Quitting peacefully.
