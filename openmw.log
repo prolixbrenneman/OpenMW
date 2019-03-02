@@ -16,10 +16,15 @@ Adding data directory D:\Games\OpenMW\Mods\MorrowindOptimizationPatch
 Adding data directory D:\Games\OpenMW\Mods\ModernUserInterface
 Adding data directory D:\Games\OpenMW\Mods\BetterRegen
 Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
+Adding data directory D:\Games\OpenMW\Mods\ExpandedBirthsigns
 Adding data directory D:\Games\OpenMW\Mods\BetterBodies
 Adding data directory D:\Games\OpenMW\Mods\RaceRebalance
 Adding data directory D:\Games\OpenMW\Mods\RacesRedone
 Adding data directory D:\Games\OpenMW\Mods\RacesRedonePurpleImperialFix
+Adding data directory D:\Games\OpenMW\Mods\AtHomeAlchemyRedux\Data Files
+Adding data directory D:\Games\OpenMW\Mods\BookRotatev53\Data Files
+Adding data directory D:\Games\OpenMW\Mods\DelayedDBAttackV2
+Adding data directory D:\Games\OpenMW\Mods\LowerFirstPersonSneakMode
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -39,6 +44,8 @@ Enumerated output devices:
 Loading content file Morrowind.esm
 Loading content file Tribunal.esm
 Loading content file Bloodmoon.esm
+Loading content file DB_Attack_Mod.esp
+Loading content file ExpandedBirthsigns4Purists.esp
 Loading content file BetterGoverningAttributes.esp
 Loading content file BetterRegen.omwaddon
 Loading content file RAMF_Mer_for_NPCs.esp
@@ -51,7 +58,13 @@ Loading content file Patch for Purists - Dialogue Typos.esm
 Loading content file Patch for Purists - Expansion Implementation.esm
 Loading content file Patch for Purists - Floating Rocks.esm
 Loading content file Patch for Purists - Statistic Typos.esm
+Loading content file AtHomeAlchemyRedux.esp
 Loading content file CREL_Vanilla_v3.1.esp
+Loading content file LowerFirstPersonSneak.ESP
+Loading content file Book Rotate.esm
+Loading content file Book Rotate - Bloodmoon v5.3.esp
+Loading content file Book Rotate - Morrowind v1.1.esp
+Loading content file Book Rotate - Tribunal v5.3.esp
 Playing Music/Special/morrowind title.mp3
 Loading cell -3, -10
 Loading cell -3, -9
@@ -63,7 +76,7 @@ Loading cell -2, -8
 Loading cell -1, -10
 Loading cell -1, -9
 Loading cell -1, -8
-warning fallingScript line 46, column 6 (endif)
+warning fallingScript line 126, column 6 (endif)
     endif without matching if/elseif
-Playing music/explore/mx_explore_6.mp3
+Playing music/explore/morrowind title.mp3
 Quitting peacefully.
