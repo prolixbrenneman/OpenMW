@@ -14,9 +14,6 @@ Adding data directory D:\Games\OpenMW\Mods\ChargenRevampedEL\Data Files
 Adding data directory D:\Games\OpenMW\Mods\PatchforPurists
 Adding data directory D:\Games\OpenMW\Mods\MorrowindOptimizationPatch
 Adding data directory D:\Games\OpenMW\Mods\ModernUserInterface
-Adding data directory D:\Games\OpenMW\Mods\BetterRegen
-Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
-Adding data directory D:\Games\OpenMW\Mods\ExpandedBirthsigns
 Adding data directory D:\Games\OpenMW\Mods\BetterBodies
 Adding data directory D:\Games\OpenMW\Mods\NewBeastBodies\Data Files
 Adding data directory D:\Games\OpenMW\Mods\RaceRebalance
@@ -34,7 +31,6 @@ Adding data directory D:\Games\OpenMW\Mods\GraphicHerbalism
 Adding data directory D:\Games\OpenMW\Mods\MeshFixv12
 Adding data directory D:\Games\OpenMW\Mods\MeshImprovements171
 Adding data directory D:\Games\OpenMW\Mods\CorrectMeshes
-Adding data directory D:\Games\OpenMW\Mods\VanillaRemastered
 Adding data directory D:\Games\OpenMW\Mods\NatureRetex
 Adding data directory D:\Games\OpenMW\Mods\Papill6nvariousgraphicsthings
 Adding data directory D:\Games\OpenMW\Mods\AOFContainers
@@ -56,8 +52,9 @@ Adding data directory D:\Games\OpenMW\Mods\EKMVanillaBasedPaperLanterns
 Adding data directory D:\Games\OpenMW\Mods\GuarSkinBannersforOpenMWandVanillaMorrowind
 Adding data directory D:\Games\OpenMW\Mods\ImprovedCavernClutter
 Adding data directory D:\Games\OpenMW\Mods\ImprovedImperialFortUVs
-Adding data directory D:\Games\OpenMW\Mods\IngredientsMeshReplacer
-Adding data directory D:\Games\OpenMW\Mods\KetsPotionsandBeveragesRetexture
+Adding data directory D:\Games\OpenMW\Mods\IngredientsMeshReplacer\Data Files
+Adding data directory D:\Games\OpenMW\Mods\KetsPotionsandBeveragesRetexture\Data Files
+Adding data directory D:\Games\OpenMW\Mods\SmallerPotions
 Adding data directory D:\Games\OpenMW\Mods\KetsSwirlwoodFurnitureRetexture
 Adding data directory D:\Games\OpenMW\Mods\LongLiveTheGlasswareRetexture
 Adding data directory D:\Games\OpenMW\Mods\LongLiveTheLimewareRetexture
@@ -70,6 +67,10 @@ Adding data directory D:\Games\OpenMW\Mods\PetesJournalFont
 Adding data directory D:\Games\OpenMW\Mods\RealSignposts
 Adding data directory D:\Games\OpenMW\Mods\NewSplashScreens
 Adding data directory D:\Games\OpenMW\Mods\BetterDialogueFont
+Adding data directory D:\Games\OpenMW\Mods\HairReplacementYeahYeah
+Adding data directory D:\Games\OpenMW\Mods\Apefireretexture
+Adding data directory D:\Games\OpenMW\Mods\KeyReplacerVisual
+Adding data directory D:\Games\OpenMW\Mods\KeyReplacerNames
 Adding data directory D:\Games\OpenMW\Mods\BetterClothesv11
 Adding data directory D:\Games\OpenMW\Mods\BetterRobes\Data Files
 Adding data directory D:\Games\OpenMW\Mods\MoreBetterClothes
@@ -87,14 +88,23 @@ Adding data directory D:\Games\OpenMW\Mods\BalmoraMGStorageandBed
 Adding data directory D:\Games\OpenMW\Mods\RedoranCouncilHallImprovement
 Adding data directory D:\Games\OpenMW\Mods\SkoomaPipe
 Adding data directory D:\Games\OpenMW\Mods\HidetheSugar
-Adding data directory D:\Games\OpenMW\Mods\MarksmanOverhaul
-Adding data directory D:\Games\OpenMW\Mods\SpeechcraftRebalance
-Adding data directory D:\Games\OpenMW\Mods\BTBsBalanceFixes
+Adding data directory D:\Games\OpenMW\Mods\CalderaApperatus
+Adding data directory D:\Games\OpenMW\Mods\SecretApperatus
+Adding data directory D:\Games\OpenMW\Mods\BetterRegen
+Adding data directory D:\Games\OpenMW\Mods\BetterGoverningAttributes
+Adding data directory D:\Games\OpenMW\Mods\ExpandedBirthsigns
 Adding data directory D:\Games\OpenMW\Mods\PriceBalance
+Adding data directory D:\Games\OpenMW\Mods\BTBsBalanceFixes
+Adding data directory D:\Games\OpenMW\Mods\SpeechcraftRebalance
 Adding data directory D:\Games\OpenMW\Mods\LvldListEconomyFix
 Adding data directory D:\Games\OpenMW\Mods\NaturalCharacterGrowthandDecay
 Adding data directory D:\Games\OpenMW\Mods\MBSPncgdMW
-Adding data directory D:\Games\OpenMW\Mods\HarderNoM
+Adding data directory D:\Games\OpenMW\Mods\MarksmanOverhaul
+Adding data directory D:\Games\OpenMW\Mods\AutoAmmoEquipforOpenMW
+Adding data directory D:\Games\OpenMW\Mods\CreeperandMudcrabNoTrade
+Adding data directory D:\Games\OpenMW\Mods\GondolierDestinations
+Adding data directory D:\Games\OpenMW\Mods\Chalk
+Adding data directory D:\Documents\My Games\OpenMW/data
 Initializing OpenAL...
 Opened "OpenAL Soft on Speakers (Realtek(R) Audio)"
   ALC Version: 1.1
@@ -114,6 +124,7 @@ Enumerated output devices:
 Loading content file Morrowind.esm
 Loading content file Tribunal.esm
 Loading content file Bloodmoon.esm
+Loading content file UCNature.esm
 Loading content file DB_Attack_Mod.esp
 Loading content file wl_SolstheimOverhaul_v1.esm
 Loading content file Anthology Tomb of the Snow Prince.esm
@@ -121,9 +132,6 @@ Loading content file ATotSP - Vanillaish Fort Frostmoth.esp
 Loading content file Anthology Tomb of the Snow Prince.esp
 Loading content file New Argonian Bodies - Mature.esp
 Loading content file New Khajiit Bodies - Mature.esp
-Loading content file ExpandedBirthsigns4Purists.esp
-Loading content file BetterGoverningAttributes.esp
-Loading content file BetterRegen.omwaddon
 Loading content file RAMF_Mer_for_NPCs.esp
 Loading content file Khajiit Redone.esp
 Loading content file Argonian Redone.esp
@@ -137,7 +145,6 @@ Loading content file Patch for Purists - Dialogue Typos.esm
 Loading content file Patch for Purists - Expansion Implementation.esm
 Loading content file Patch for Purists - Floating Rocks.esm
 Loading content file Patch for Purists - Statistic Typos.esm
-Loading content file UCNature.esm
 Loading content file RealSignposts.esp
 Loading content file Better Clothes_v1.1_nac.esp
 Loading content file Better Robes.ESP
@@ -157,16 +164,35 @@ Loading content file SpeechcraftBalance.ESP
 Loading content file BTB - Alchemy.esp
 Loading content file BTB - Spells.esp
 Loading content file BTB - Equipment.esp
+Loading content file ExpandedBirthsigns4Purists.esp
+Loading content file BetterGoverningAttributes.esp
+Loading content file BetterRegen.omwaddon
 Loading content file vn_economy_ItemLists.esp
+Loading content file ncgdMW.omwaddon
+Loading content file ncgdMW_alt_start.omwaddon
+Loading content file PB_SecretApperatus.esp
+Loading content file PB_CalderaApperatus.esp
+Loading content file PB_SmallerPotions.esp
+Loading content file PB_CreeperMudcrab.esp
+Loading content file PB_GondolierDestinations.esp
+Loading content file Chalk30-Base.esp
+Loading content file Chalk30-Glow.esp
+Loading content file gr_Keys.esp
+Loading content file Key Replacer Trib & BM.esp
+Loading content file Auto Ammò Equip for OpenMW.omwaddon
 Loading content file BalmoraMGStorage.ESP
 Loading content file 1.2dagothspartyCLEANED.esp
 Loading content file HideSugarHideSkooma+Tweaks.ESP
-Loading content file Skooma Pipe 1.2a.ESP
 Playing Music/Special/morrowind title.mp3
-Warning: Savegame dependency Price Balance.ESP is missing.
 Changing to interior
-Loading cell Seyda Neen, Arrille's Tradehouse
-Failed to open image: Resource 'textures/tx_bc_podplant_03_g.dds' not found
-Playing music/explore/mx_explore_4.mp3
+Loading cell Balmora, Guild of Mages
+warning fallingScript line 126, column 6 (endif)
+    endif without matching if/elseif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/mx_explore_7.mp3
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
 Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
 Quitting peacefully.
