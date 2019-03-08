@@ -76,6 +76,8 @@ Adding data directory D:\Games\OpenMW\Mods\DarknutsCreatureTextures\Data Files
 Adding data directory D:\Games\OpenMW\Mods\DarknutsCreatureTextureaddendum\Data Files
 Adding data directory D:\Games\OpenMW\Mods\CrosshairGoldenCross
 Adding data directory D:\Games\OpenMW\Mods\DGLOblivionMenu\Data Files
+Adding data directory D:\Games\OpenMW\Mods\UVRockFix
+Adding data directory D:\Games\OpenMW\Mods\MagicDiversity\Data Files
 Adding data directory D:\Games\OpenMW\Mods\BetterClothesv11
 Adding data directory D:\Games\OpenMW\Mods\BetterRobes\Data Files
 Adding data directory D:\Games\OpenMW\Mods\MoreBetterClothes
@@ -162,6 +164,8 @@ Loading content file Book Rotate.esm
 Loading content file Book Rotate - Bloodmoon v5.3.esp
 Loading content file Book Rotate - Morrowind v1.1.esp
 Loading content file Book Rotate - Tribunal v5.3.esp
+Loading content file Magic Diversity 1.0.ESP
+Loading content file OTR_Coast_Variety.esp
 Loading content file Fashionable Merchants 1.0.esp
 Loading content file CREL_Vanilla_STOTSP_v3.1.esp
 Loading content file Xenn's Marksman Overhaul.ESP
@@ -198,11 +202,2455 @@ warning fallingScript line 126, column 6 (endif)
 Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
 Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
 Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
-Playing music/explore/mx_explore_4.mp3
 Failed to open image: Resource 'textures/md_vurt_brazbark3.dds' not found
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Playing music/explore/mx_explore_5.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_4.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_2.mp3
+warning nom_thirst line 96, column 15 (imp_thirst)
+    Names for script NOM_thirst do not match
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_2.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_3.mp3
+Changing to interior
+Unloading cell
+Loading cell Caldera, Guild of Mages
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/ex_wg_cave_entrance_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/ex_wg_cave_entrance_01.nif
+Playing music/explore/mx_explore_2.mp3
+Playing music/explore/mx_explore_5.mp3
+Unloading cell
+Loading cell -3, 1
+Loading cell -3, 2
+Loading cell -3, 3
+Loading cell -2, 1
+Loading cell -2, 2
+Loading cell -2, 3
+Loading cell -1, 1
+Loading cell -1, 2
+Loading cell -1, 3
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Playing music/battle/mw battle5.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Playing music/explore/morrowind title.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell 0, 1
+Loading cell 0, 2
+Loading cell 0, 3
+Playing music/explore/mx_explore_4.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Playing music/battle/mw battle3.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_6.mp3
+Playing music/battle/mw battle 8.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/battle/mw battle 7.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Shushishi
+Playing music/battle/mw battle2.mp3
+Playing Music/Special/MW_Death.mp3
+Playing music/explore/mx_explore_2.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_2.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_2.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_2.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+Changing to interior
+Loading cell Balmora, Guild of Mages
+Error: part has no parents 
+Error: part has no parents 
+Error: part has no parents 
+Error: part has no parents 
+Error: part has no parents 
+Error: part has no parents 
+Playing music/explore/mx_explore_3.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
 Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
 Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
 Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+warning OutsideBanner line 38, column 6 (endif)
+    endif without matching if/elseif
+Failed to open image: Resource 'textures/d:/games/bethesda softworks/morrowind/data files/textures/mkbh/imperial/male/mkbh_manhead_imp06_d.dds' not found
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_2.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -4, 0
+Loading cell -3, 0
+Loading cell -2, 0
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -1, -2
+Loading cell -1, -1
+Loading cell -1, 0
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/battle/mw battle1.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_6.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/battle/mw battle 4.mp3
+Playing Music/Special/MW_Death.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Changing to interior
+Loading cell Balmora, Guild of Mages
+Playing music/explore/mx_explore_7.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Meldor: Armorer
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Playing music/explore/mx_explore_1.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, The Razor Hole
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Playing music/explore/mx_explore_3.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Eight Plates
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_4.mp3
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Guild of Mages
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/morrowind title.mp3
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Playing music/explore/mx_explore_3.mp3
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_550.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_55.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_54.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_67.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_43.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_58.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_5a.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_19.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_53.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_79.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -1, -3
+Loading cell -1, -2
+Loading cell -1, -1
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_06.nif
+NiTextureEffect missing source texture in meshes/x/terrain_rock_ma_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_25.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_25.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_39.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_39.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_49.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_49.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_57.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_57.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ma_rock13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ma_rock13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ma_rock22.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ma_rock22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_59.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_59.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_ma_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_ma_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_ma_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_ma_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_ma_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_ma_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/ex_ma_cave_entrance.nif
+Warning: texture layer 5 is in use but empty in meshes/x/ex_ma_cave_entrance.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Playing music/battle/mw battle5.mp3
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell 0, -3
+Loading cell 0, -2
+Loading cell 0, -1
+Warning: texture layer 2 is in use but empty in meshes/x/ex_ma_cave_entrance_lava.nif
+Warning: texture layer 5 is in use but empty in meshes/x/ex_ma_cave_entrance_lava.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ma_20.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ma_20.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_56.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_56.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ma_rock62.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ma_rock62.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_rock_ma_51.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_rock_ma_51.nif
+Playing music/battle/mw battle2.mp3
+Playing music/explore/mx_explore_1.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell 1, -3
+Loading cell 1, -2
+Loading cell 1, -1
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Playing music/battle/mw battle3.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Arkngthand, Hall of Centrifuge
+Playing music/explore/mx_explore_4.mp3
+Unloading cell
+Loading cell -1, -3
+Loading cell -1, -2
+Loading cell -1, -1
+Loading cell 0, -3
+Loading cell 0, -2
+Loading cell 0, -1
+Loading cell 1, -3
+Loading cell 1, -2
+Loading cell 1, -1
+Playing music/battle/mw battle 7.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_2.mp3
+Playing music/battle/mw battle 4.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Arkngthand, Hall of Centrifuge
+Playing music/explore/mx_explore_5.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Weepingbell Hall
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Playing music/battle/mw battle 8.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/battle/mw battle1.mp3
+Playing music/explore/mx_explore_3.mp3
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Hall of Centrifuge
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Weepingbell Hall
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Hall of Centrifuge
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Cells of Hollow Hand
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Playing music/battle/mw battle3.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_6.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/mx_explore_5.mp3
+Changing to interior
+Unloading cell
+Loading cell Arkngthand, Hall of Centrifuge
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/explore/mx_explore_7.mp3
+Unloading cell
+Loading cell -1, -3
+Loading cell -1, -2
+Loading cell -1, -1
+Loading cell 0, -3
+Loading cell 0, -2
+Loading cell 0, -1
+Loading cell 1, -3
+Loading cell 1, -2
+Loading cell 1, -1
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Playing music/battle/mw battle1.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -4, -3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Loading cell -4, -2
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Loading cell -4, -1
+Loading cell -3, -3
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Playing music/explore/mx_explore_4.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Guild of Mages
 Playing music/explore/mx_explore_2.mp3
 Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_7.mp3
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 2 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 2 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -5, -3
+Loading cell -5, -2
+Loading cell -5, -1
+Playing music/battle/mw battle5.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_3.mp3
+Playing music/battle/mw battle 8.mp3
+Playing music/explore/morrowind title.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Playing music/battle/mw battle2.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/mx_explore_2.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -5, 0
+Loading cell -4, 0
+Loading cell -3, 0
+Warning: texture layer 2 is in use but empty in meshes/x/ex_bc_cave_entrance.nif
+Warning: texture layer 5 is in use but empty in meshes/x/ex_bc_cave_entrance.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_12.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -5, 1
+Loading cell -4, 1
+Loading cell -3, 1
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_15.nif
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -6, 0
+Loading cell -6, 1
+Loading cell -6, 2
+Loading cell -5, 2
+Loading cell -4, 2
+Playing music/battle/mw battle 4.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_5.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -6, 3
+Loading cell -5, 3
+Loading cell -4, 3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Band Egg Mine
+Playing music/battle/mw battle 7.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_6.mp3
+Unloading cell
+Loading cell -6, 1
+Loading cell -6, 2
+Loading cell -6, 3
+Loading cell -5, 1
+Loading cell -5, 2
+Loading cell -5, 3
+Loading cell -4, 1
+Loading cell -4, 2
+Loading cell -4, 3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -3, 1
+Loading cell -3, 2
+Loading cell -3, 3
+Playing music/battle/mw battle5.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -4, -3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Loading cell -4, -2
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Loading cell -4, -1
+Loading cell -3, -3
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Playing music/explore/mx_explore_2.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Guild of Mages
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/morrowind title.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Guild of Mages
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_4.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Playing music/explore/mx_explore_6.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Guild of Fighters
+Playing music/explore/mx_explore_1.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Playing music/explore/mx_explore_2.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, The Rat In The Pot
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_4.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Error: part has no parents 
+Error: part has no parents 
+Error: part has no parents 
+Playing music/explore/morrowind title.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Codus Callonus: Bookseller
+Playing music/explore/mx_explore_7.mp3
+Error: tried to add local script twice for nom_recipe_book_04
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unhandled NiTextureEffect type 0 in meshes/nom/tad_juice_berry.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Tingel Drivaris: Choice Victuals
+Playing music/explore/mx_explore_4.mp3
+Unloading cell
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -3, 8
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -2, 8
+Loading cell -1, 6
+Loading cell -1, 7
+Loading cell -1, 8
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Bevene Releth: Clothier
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Playing music/explore/mx_explore_7.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Tiras Sadus: General Merchandise
+Playing music/explore/mx_explore_3.mp3
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Daynes Redothril: Pawnbroker
+Playing music/explore/mx_explore_1.mp3
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Codus Callonus: Bookseller
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Cienne Sintieve: Alchemist
+Playing music/explore/mx_explore_5.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Bivale Teneran: Clothier
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Playing music/explore/mx_explore_2.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Llether Vari: Enchanter
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Playing music/explore/morrowind title.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Morag Tong Guildhall
+Playing music/explore/mx_explore_6.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Unloading cell
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -3, 8
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -2, 8
+Loading cell -1, 6
+Loading cell -1, 7
+Loading cell -1, 8
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -3, 5
+Loading cell -2, 5
+Loading cell -1, 5
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Ienas Sarandas's House
+Playing music/explore/mx_explore_3.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Daynes Redothril: Pawnbroker
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Tiras Sadus: General Merchandise
+Playing music/explore/morrowind title.mp3
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Llether Vari: Enchanter
+Playing music/explore/mx_explore_5.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Bivale Teneran: Clothier
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Unloading cell
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -3, 8
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -2, 8
+Loading cell -1, 6
+Loading cell -1, 7
+Loading cell -1, 8
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Playing music/explore/mx_explore_2.mp3
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Bevene Releth: Clothier
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Guild of Mages
+Playing music/explore/mx_explore_7.mp3
+Playing music/explore/mx_explore_1.mp3
+Playing music/explore/mx_explore_4.mp3
+Playing music/battle/mw battle 4.mp3
+Playing Music/Special/MW_Death.mp3
+Unloading cell
+Changing to interior
+Loading cell Ald-ruhn, Guild of Mages
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_7.mp3
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Bevene Releth: Clothier
+Unloading cell
+Loading cell -3, 5
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -2, 5
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -1, 5
+Loading cell -1, 6
+Loading cell -1, 7
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Playing music/explore/mx_explore_4.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Entrance
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Practice Room
+Playing music/explore/mx_explore_1.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Practice Room
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Malpenix Blonia: Trader
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Tuveso Beleth: Smith
+Playing music/explore/mx_explore_2.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Council Hostel
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Playing music/explore/mx_explore_5.mp3
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Goras Andrelo's House
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Hall
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Redoran Council Entrance
+Changing to interior
+Unloading cell
+Loading cell Ald-ruhn, Manor District
+Playing music/explore/mx_explore_6.mp3
+Warning: controller R2_Claw02 present more than once in meshes/r/xsiltstrider.kf, ignoring later version
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_01.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_02.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_03.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_05.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_06.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_04.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_08.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_10.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_07.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_09.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_11.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_12.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_13.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_14.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_15.nif
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashland_rock_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_cairn_al_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_19.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_23.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_22.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_20.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_21.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_11.nif
+Unloading cell
+Loading cell -3, 6
+Loading cell -3, 7
+Loading cell -3, 8
+Loading cell -2, 6
+Loading cell -2, 7
+Loading cell -2, 8
+Loading cell -1, 6
+Loading cell -1, 7
+Loading cell -1, 8
+Warning: texture layer 2 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 5 is in use but empty in meshes/x/terrain_ashmire_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_02.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_rm_24.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -3, 5
+Loading cell -2, 5
+Loading cell -1, 5
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_01.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_02.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Ald-ruhn, Guild of Mages
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_7.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Changing to interior
+Unloading cell
+Loading cell Balmora, Guild of Mages
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_08.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_07.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_ai_06.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_15.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_bc_10.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_12.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_09.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_13.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_18.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_17.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_17.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_ai_03.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_14.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_14.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_02.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 1 is in use but empty in meshes/b/b_n_redguard_m_hair_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_16.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_01.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_05.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rocks_wg_04.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rocks_wg_04.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Playing music/explore/mx_explore_4.mp3
+Playing music/explore/morrowind title.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_3.mp3
+Playing music/explore/mx_explore_2.mp3
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Western Guard Tower South
+Unloading cell
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Hlaalo Manor
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Warning: texture layer 4 is in use but empty in meshes/f/flora_bc_podplant_03.nif
+Playing music/explore/mx_explore_1.mp3
+Unloading cell
+Loading cell -5, -3
+Loading cell -5, -2
+Loading cell -5, -1
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Warning: texture layer 2 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 2 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Warning: texture layer 5 is in use but empty in meshes/b/b_n_breton_f_hair_04.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Hlaalu Council Manor
+Playing music/explore/mx_explore_2.mp3
+Unloading cell
+Loading cell -5, -3
+Loading cell -5, -2
+Loading cell -5, -1
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+can't find emitter node, wrong node order? in meshes/l/light_de_candle_01.nif
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Nalcarya of White Haven: Fine Alchemist
+Playing music/explore/mx_explore_4.mp3
+Unloading cell
+Loading cell -5, -3
+Loading cell -5, -2
+Loading cell -5, -1
+Loading cell -4, -3
+Loading cell -4, -2
+Loading cell -4, -1
+Loading cell -3, -3
+Loading cell -3, -2
+Loading cell -3, -1
+Playing music/explore/mx_explore_7.mp3
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_11.nif
+Warning: texture layer 2 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Warning: texture layer 5 is in use but empty in meshes/f/terrain_rock_wg_06.nif
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell -2, -3
+Loading cell -2, -2
+Loading cell -2, -1
+Changing to interior
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Unloading cell
+Loading cell Balmora, Guild of Mages
+Playing music/explore/mx_explore_5.mp3
+Playing music/explore/mx_explore_6.mp3
+Playing music/battle/mw battle1.mp3
+Playing music/explore/mx_explore_1.mp3
+Unhandled controller NiPathController on node 90 in meshes/e/magic_cast_myst.nif
+Unloading cell
+Changing to interior
+Loading cell Balmora, Guild of Mages
+Playing music/explore/morrowind title.mp3
+Unhandled controller NiPathController on node 72 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 83 in meshes/e/magic_hit_rest.nif
+Unhandled controller NiPathController on node 91 in meshes/e/magic_hit_rest.nif
+Changed setting: [Windows] inventory x = 0.366667
+Changed setting: [Windows] map h = 0.549074
+Changed setting: [Windows] map w = 0.3
+Changed setting: [Windows] map x = 0.699479
+Changed setting: [Windows] stats h = 0.932407
+Changed setting: [Windows] stats w = 0.18125
+Changed setting: [Windows] stats x = -0.00260417
+Changed setting: [Windows] dialogue x = 0.296875
+Changed setting: [Windows] dialogue y = 0.443519
+Changed setting: [Game] best attack = false
+Changed setting: [Game] difficulty = 25.2325
+Updating settings file: "D:\Documents\My Games\OpenMW/settings.cfg"
 Quitting peacefully.
